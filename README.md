@@ -23,7 +23,7 @@ Syntax errors are displayed in an overlay using **[@glenjamin](https://github.co
 git clone https://github.com/gaearon/react-transform-boilerplate.git
 cd react-transform-boilerplate
 npm install
-npm start
+NODE_ENV=development npm start
 open http://localhost:3000
 ```
 
